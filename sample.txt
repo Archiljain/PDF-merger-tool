@@ -1,0 +1,6 @@
+ Example
+
+Selected file is: /home/user/Documents/file1.pdf
+Selected file is: /home/user/Documents/file2.pdf
+
+Output: merged_pdf.pdf containing pages from both files.
